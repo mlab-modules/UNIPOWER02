@@ -9,8 +9,8 @@ github_url: https://github.com/mlab-modules/UNIPOWER02
 homepage: false
 image: doc/img/UNIPOWER02A_small.jpg
 images:
-- doc/img/UNIPOWER02A_small.jpg
 - doc/img/unipower02A_mala.jpg
+- doc/img/UNIPOWER02A_small.jpg
 - doc/html/Pictures/UNIPOWER02A_1.jpg
 - doc/html/Pictures/UNIPOWER02A_2.jpg
 - doc/img/UNIPOWER02A_QRcode.png
