@@ -9,8 +9,8 @@ github_url: https://github.com/mlab-modules/UNIPOWER02
 homepage: false
 image: doc/img/UNIPOWER02A_small.jpg
 images:
-- doc/img/UNIPOWER02A_small.jpg
 - doc/img/unipower02A_mala.jpg
+- doc/img/UNIPOWER02A_small.jpg
 - doc/html/Pictures/UNIPOWER02A_2.jpg
 - doc/html/Pictures/UNIPOWER02A_1.jpg
 - doc/img/UNIPOWER02A_QRcode.png
@@ -24,4 +24,4 @@ tags:
 - power-supply
 - mlab-module
 title: UNIPOWER02
-updated: '2023-07-21T03:35:26.484257+00:00'
+updated: '2023-09-11T01:02:52.871778+00:00'
