@@ -16,6 +16,7 @@ images:
 - doc/img/UNIPOWER02A_QRcode.png
 issues: 1
 mark: 50
+status: 0
 tags:
 - dc
 - mlab
