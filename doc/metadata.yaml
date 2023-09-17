@@ -4,6 +4,9 @@ description: 'Universal power supply module from barrel DC connector and WAGO te
 github_branch: UNIPOWER02A
 github_branches:
 - UNIPOWER02A
+github_description: 'Universal power supply module from barrel DC connector and WAGO
+  terminals to MLAB modules. The module contains a resettable fuse, switch and LED
+  indicator. Module can be used either for 5V and 12V. '
 github_repo: UNIPOWER02
 github_url: https://github.com/mlab-modules/UNIPOWER02
 homepage: false
@@ -25,4 +28,4 @@ tags:
 - power-supply
 - mlab-module
 title: UNIPOWER02
-updated: '2023-09-16T22:03:46.459279+00:00'
+updated: '2023-09-17T11:34:42.407162+00:00'
