@@ -18,7 +18,7 @@ images:
 - doc/html/Pictures/UNIPOWER02A_1.jpg
 - doc/img/UNIPOWER02A_QRcode.png
 issues: 1
-mark: 50
+mark: 60
 status: 2
 tags:
 - dc
@@ -28,4 +28,5 @@ tags:
 - power-supply
 - mlab-module
 title: UNIPOWER02
+tindie_url: https://www.tindie.com/products/33904/
 updated: '2023-09-17T11:51:54.508229+00:00'
